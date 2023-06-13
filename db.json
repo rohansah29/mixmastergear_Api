@@ -1,0 +1,261 @@
+{
+    "mixers":[
+        {
+            "id":1,
+            "title":"Pioneer DJ DDJ-FLX4 Rekordbox & Serato DJ Compatible, 2-Channel DJ Controller",
+            "image":"https://www.thediscdjstore.com/user/products/large/pioneer-dj-ddj-flx4-top-screenshots.jpg",
+            "price":27900,
+            "description":"Includes rekordbox full version and Serato DJ Lite, Multi-device support,User friendly portable design and professional layout, Brand-new Smart Mixing features, Seamless integration with selected streaming services",
+            "popular":5
+        },
+        {
+            "id":2,
+            "title":"Pioneer DJ DDJ-SR2, 2 Channel Serato DJ Controller",
+            "image":"https://www.thediscdjstore.com/user/products/large/pioneerddjsr2top.jpg",
+            "price":69900,
+            "description":"High quality built in soundcard, Includes full version of Serato DJ, Includes Pitch 'n Time expansion pack, Serato DVS upgrade ready, Slip mode, FX knobs and sync button",
+            "popular":1  
+        },
+        {
+            "id":3,
+            "title":"Pioneer DJ DDJ-FLX6-GT, 4 Channel Rekordbox & Serato DJ Controller + Carry Bag",
+            "image":"https://www.thediscdjstore.com/user/products/large/pioneer-ddj-flx6gt-and-carry-bag2.jpg",
+            "price":64900,
+            "description":"Support for various DJ software applications, Full-size jog wheels, Merge FX / Jog Cutter / Sample Scratch, Includes licenses for Serato FX Pack and Pitch ‘n Time DJ Expansion Pack, USB bus powered",
+            "popular":3 
+        },
+        {
+            "id":4,
+            "title":"Pioneer DJ DJC-FLX6 Carry Bag For The DDJ-FLX6-GT",
+            "image":"https://www.thediscdjstore.com/user/products/large/pioneer-djc-flx6-open.jpg",
+            "price":9900,
+            "description":"Official Pioneer carry bag for DDJ-FLX6, Shoulder strap for easy transportation, Interior is packed with foam ensuring maximum protection, EVA Durashock Molded Body",
+            "popular":6 
+        },
+        {
+            "id":5,
+            "title":"Native Instruments Traktor Kontrol S2 MK3 DJ Controller + Traktor Pro 3 Full Version",
+            "image":"https://www.thediscdjstore.com/user/products/large/nitraktorkontrols2mk3front.jpg",
+            "price":24900,
+            "description":"Large smooth precision jog wheels, Mixer FX, instant one-knob FX/filter control per channel, 16 RGB pads for triggering Hotcues, Loops or Samples, 24-bit / 44.1 kHz audio interface, Includes the brand new Traktor Pro 3 software",
+            "popular":2 
+        },
+        {
+            "id":6,
+            "title":"Denon Prime GO, 2-Channel, Battery Powered Standalone DJ Controller",
+            "image":"https://www.thediscdjstore.com/user/products/large/denon-prime-go-top.jpg",
+            "price":94400,
+            "description":"Fully-featured, backpackable 2-deck smart DJ console, 7-inch HD touchscreen with gestures, Rechargeable lithium-ion battery for up to 4 hours of unplugged performance, Built-in Wi-Fi and wired internet connectivity for music streaming, Dual-bank performance pads for triggering hot-cues, loop and roll No-compromise, pro-grade audio and connectivity RCA aux input for media players, tablets and phones",
+            "popular":4
+        }
+    ],
+    "Speakers":[
+        {
+            "id":7,
+            "title":"KRK Rokit RP7 G4 (Pair) + Isolation Pads & Leads Bundle",
+            "image":"https://www.thediscdjstore.com/user/products/large/krk-rokit-rp7-g4-split-pads-jack-xlr-leads.jpeg",
+            "price":33800,
+            "description":"Built-in efficient Class D power amp, Proprietary speaker drivers built in-house from the ground up, Onboard LCD visual DSP-driven EQ, 25 visual Graphic EQ settings for different environments, KRK App with Room Correction Tools",
+            "popular":4
+        },
+        {
+            "id":8,
+            "title":"Mackie Thrash 215 Active Portable PA Speaker (Single)",
+            "image":"https://www.thediscdjstore.com/user/products/large/mackie-thrash-215-front.jpg",
+            "price":29900,
+            "description":"1300W (peak) ultra-efficient Class-D amplifier, Built-Like-A-Tank™ to conquer every gig while lightweight for easy loading, Straightforward inputs and outputs, Pole mount it or use it as a floor monitor, Equipped with 4 handles for easy loading",
+            "popular":6
+        },
+        {
+            "id":9,
+            "title":"Pioneer DJ DM-40D White, 4 Active Monitors for DJ'ing or Production",
+            "image":"https://www.thediscdjstore.com/user/products/large/mackie-thrash-215-front.jpg",
+            "price":14900,
+            "description":"High quality sound, DJ'ing or production modes, Bass reflex system, Multiple input options, Super clean audio at any volume",
+            "popular":1
+        },
+        {
+            "id":10,
+            "title":"KRK Rokit RP8 G4 (Pair) + Monitor Stands + Leads Bundle",
+            "image":"https://www.thediscdjstore.com/user/products/large/krk-rokit-rp5-g4-black-desktop-stands-jack-xlrm.jpg",
+            "price":34900,
+            "description":"Includes Desktop Monitor Stands with adjustable height and tilt, Excellent quality balanced audio leads of your choice included, Built-in efficient Class D power amp, Onboard LCD visual DSP-driven EQ, 25 visual Graphic EQ settings for different environments",
+            "popular":3
+        },
+        {
+            "id":11,
+            "title":"Mackie CR3X Active DJ Speakers + Cables Bundle",
+            "image":"https://www.thediscdjstore.com/user/products/large/mackie-cr3x-main.jpg",
+            "price":7500,
+            "description":"Includes ProTools First DAW software, Choose which side of your desk gets the volume knob with the convenient speaker placement switch, Convenient front panel volume knob with on/off/volume control, Plug your smartphone or other source into the 1/8” Aux input and listen instantly, 50 watts of clean, articulate stereo sound",
+            "popular":2
+        },
+        {
+            "id":12,
+            "title":"KAM RZ15ABT, 15 Active Speaker with Bluetooth (Single)",
+            "image":"https://www.thediscdjstore.com/user/products/large/mackie-cr3x-main.jpg",
+            "price":26900,
+            "description":"Built-in amplifier for direct connection to mixers & sound sources, Multiple audio inputs for mics and instruments with easy-to-connect Bluetooth® input, Compact chassis designed for PA and sound reinforcement, Curved trapezoid chassis and unique handles for horizontal placement as a stage monitor, Built-in media player - plug in USB sticks and SD cards for MP3 playback",
+            "popular":5
+        }
+    ],
+    "headphones":[
+        {
+            "id":13,
+            "title":"Numark HF175 DJ Headphones",
+            "image":"https://www.thediscdjstore.com/user/products/large/numark-hf175-main.jpg",
+            "price":3200,
+            "description":"High-quality 40 mm Neodymium magnet drivers for powerful, pure sound, Soft synthetic leather ear pads with stitched synthetic leather headband for long-lasting comfort, Closed-ear design for optimum sound isolation and accuracy, Stainless steel adjustable headband and Manganese steel framework for maximum strength and longevity, 180-degree rotatable frame for single-ear monitoring and portability",
+            "popular":4
+        },
+        {
+            "id":14,
+            "title":"Pioneer DJ HDJ-CUE1BT-W DJ Headphones With Bluetooth (White)",
+            "image":"https://www.thediscdjstore.com/user/products/large/pioneer-hdj-cue1bt-white-angle2.jpg",
+            "price":8900,
+            "description":"Bluetooth built-in, High-quality sound, Built to last, Comfortable design, Customizable ear-pads and cables (sold separately)",
+            "popular":6
+        },
+        {
+            "id":15,
+            "title":"Sennheiser HD25 Pro DJ/Monitoring Headphones",
+            "image":"https://www.thediscdjstore.com/user/products/large/sennheiserhd25main.jpg",
+            "price":11400 ,
+            "description":"Very comfortable and great sound isolation, Left cup twists to make djing easy, Cable is easily replaceable, Amazing sound quality and very durable, The professional DJ's favourite",
+            "popular":3
+        },
+        {
+            "id":16,
+            "title":"V-Moda Crossfade 3 Wireless Headphones Bronze Black",
+            "image":"https://www.thediscdjstore.com/user/products/large/v-moda-crossfade-3-bronze-black-main.jpg",
+            "price":24700,
+            "description":"Very comfortable and great sound isolation, Left cup twists to make djing easy, Cable is easily replaceable, Amazing sound quality and very durable, The professional DJ's favourite",
+            "popular":1
+        },
+        {
+            "id":17,
+            "title":"Austrian Audio Hi-X50 Pro On-Ear Closed Back Headphones",
+            "image":"https://www.thediscdjstore.com/user/products/large/austrian-audio-hi-x50-main.jpg",
+            "price":19900,
+            "description":"High excursion proprietary drivers, All metal hinges and bow for maximum durability, Detachable cable, Foldable construction, Soft slow retention memory foam earpads",
+            "popular":5
+        },
+        {
+            "id":18,
+            "title":"Numark HF125 DJ Headphones",
+            "image":"https://www.thediscdjstore.com/user/products/large/numark-hf125-new-2021.jpg",
+            "price":1399,
+            "description":"​Flexible 7-position independently adjustable dual ear cups, Large 40mm mylar speaker drivers, 6ft tangle-resistant cord, Padded headband and ear cups, Suitable for 3.5mm or 6.3mm connections",
+            "popular":5
+        }
+    ],
+    "controllers":[
+        {
+            "id":19,
+            "title":"Allen & Heath Xone K2 Professional DJ Midi Controller",
+            "image":"https://www.thediscdjstore.com/user/products/large/allenandheathxonek2top.jpg",
+            "price":29900,
+            "description":"For use with any midi mappable software, Built in audio interface, Includes case which also acts as a stand, Very robust build-quality, X:Link for connecting multiple units",
+            "popular":6
+        },
+        {
+            "id":20,
+            "title":"Akai MPD218 USB/MIDI Pad Controller with Ableton Live Lite",
+            "image":"https://www.thediscdjstore.com/user/products/large/akaimpd218angle.jpg",
+            "price":7700,
+            "description":"Includes Ableton Live Lite and MPC Essentials, 16 MPC style pads, iOS compatible ( Camera connection kit sold separately), USB powered, no power supply required, Perfect for live performance and producers",
+            "popular":5
+        },
+        {
+            "id":21,
+            "title":"Native Instruments Traktor Kontrol F1 for Remix & Stem Deck Control",
+            "image":"https://www.thediscdjstore.com/user/products/large/nikontrolf1top.jpg",
+            "price":15500 ,
+            "description":"Dedicated control for Stems and Remix Decks, Includes £44 voucher for Native Instruments site, Free 2GB of remix decks packs , Full colour RGB pads and filter on each channel, Lightweight for travel",
+            "popular":3
+        },
+        {
+            "id":22,
+            "title":"Novation Launchpad Pro MK3, Production Grid Controller For Ableton live",
+            "image":"https://www.thediscdjstore.com/user/products/large/nikontrolf1top.jpg",
+            "price":24900 ,
+            "description":"Deepest Ableton Live Integration, Logic Live Loops integration, Powerful Four-track, 32-step Sequencer, Chord Mode, Dynamic Note & Scale Modes ",
+            "popular":1
+        },
+        {
+            "id":23,
+            "title":"Reloop Neon, Serato DJ Modular Pad Controller",
+            "image":"https://www.thediscdjstore.com/user/products/large/reloopneontop.jpg",
+            "price":8974 ,
+            "description":"Official Serato Accessory: plug-and-play with Serato DJ, Supports the brand-new Serato Flip extension pack, Censor, slip and sync functions for all decks can be selected directly with the controller, USB bus-powered, Works with every MIDI compatible DJ or studio software ",
+            "popular":4
+        },
+        {
+            "id":24,
+            "title":"Pioneer DJ DDJ-XP2 + Rekordbox DVS & Timecode Vinyl Bundle Deal",
+            "image":"https://www.thediscdjstore.com/user/products/large/pioneer-ddj-xp2-rb-vd2-black.jpg",
+            "price":32900  ,
+            "description":"Rekordbox DJ & DVS licence key included, Supports Serato DJ Pro & DVS (available separately), Support for Silent Cue mode in Serato, Support for Transport mode in Rekordbox, Serato's first ever official 16 pad controller ",
+            "popular":2
+        }
+    ],
+    "cables":[
+        {
+            "id":25,
+            "title":"Oyaide NEO HPC-HD25 V2 for DJs, Replacement Cable for HD25 Headphones (Black)",
+            "image":"https://www.thediscdjstore.com/user/products/large/oyaide-hpc-hd-25-cable-black-main.jpg",
+            "price":4900,
+            "description":"Super high quality - 102 SSC cable conductor, 1.8m length for better on-site DJ capabilities, Gold plated HD25 side pins for improved sound quality, Cable conductor and plug soldered with lead, PVC coated outer sheath for flexibilty and durability",
+            "popular":5
+        },
+        {
+            "id":26,
+            "title":"QTX Lighting DMX Cable, 20 metre (177.913UK)",
+            "image":"https://www.thediscdjstore.com/user/products/large/dmx-cable.jpg",
+            "price":1999,
+            "description":"3-Pin XLR for DMX, High-quality, Shielded, Highly flexible cable, Accurate and noise free, Ideal for use over long distances",
+            "popular":6
+        },
+        {
+            "id":27,
+            "title":"Alto Stealth Wireless MKII Expander, Additional Receiver (Single)",
+            "image":"https://www.thediscdjstore.com/user/products/large/alto-stealth-wireless-mk2-receiver.jpg",
+            "price":14700,
+            "description":"Use to expand your existing Stealth Wireless MKII system, Single-channel receiver with one 1/4” TRS output (per unit), Reliable UHF band; up to 100+ selectable channels (regionally dependent), Adjustable squelch eliminates interference",
+            "popular":2
+        },
+        {
+            "id":28,
+            "title":"Stagg MIDI-MIDI 2 Metre Cable (SMD2)",
+            "image":"https://www.thediscdjstore.com/user/products/large/stagg-cable-smd1-main.jpg",
+            "price":999,
+            "description":"Great quality audio cable, 2 metre length, ROHS compliant, For connecting audio equipment, Black cable  with metal connections",
+            "popular":4
+        },
+        {
+            "id":29,
+            "title":"av:link RCA-RCA with Ground Wire for Turntables, 1.2 Metre (109.543UK)",
+            "image":"https://www.thediscdjstore.com/user/products/large/rca-with-ground-wire.jpg",
+            "price":499,
+            "description":"Good quality audio cable, Balanced connection, 1.2 metre length, For connecting audio equipment with a ground wire, Phono (or RCA) for Turntable",
+            "popular":3
+        },
+        {
+            "id":30,
+            "title":"Oyaide Neo d+ TXM Class B , 1/4Phone-XLRm 1M, Pro Audio Cables",
+            "image":"https://www.thediscdjstore.com/user/products/large/oyaide-jack-xlrm.jpg",
+            "price":2900,
+            "description":"Super high quality, Pure oxygen free copper conductor, Flat cable prevents distortion, Durable PVC outer for good flexibility, 24k gold plated bronze alloy coating",
+            "popular":1
+        }
+    ],
+    "users":[
+        {
+            "id":1,
+           "username":"Tony Stark",
+           "email":"ironman3@gmail.com",
+           "password":"mark3"
+        }
+    ],
+    "random":[]
+}
